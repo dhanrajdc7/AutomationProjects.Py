@@ -1,2 +1,2 @@
-# SMTP-Projects
-Python Automation For Sending Emails 
+AutomationProjects.Py
+Awesome Python Automation Projects
