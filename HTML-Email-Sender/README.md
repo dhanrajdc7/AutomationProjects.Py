@@ -23,7 +23,7 @@ This script helps to send HTML Mails to Bulk Emails
 ## Output
 ![Screenshot 2021-01-08 at 15 19 05](https://user-images.githubusercontent.com/39642060/104002162-ad6e6600-51c6-11eb-9662-7adccff6a292.png)
 
-## Author(s)
+## Author
 Made with ❤️ by [Dhanraj Chavan](https://github.com/dhanrajdc7)
 
 ## Disclaimers
